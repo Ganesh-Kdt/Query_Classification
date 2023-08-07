@@ -1,11 +1,8 @@
-import json
-import logging
-from datetime import date
-import boto3
-import pymilvus
-import fitz
-import re
-import sentence_transformers
 from flask import Flask, request
-
+import sys
+import pickle
+import numpy as np
+import json
+import string
+import emoji
 print('all dependencies installed')

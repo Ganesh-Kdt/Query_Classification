@@ -2,7 +2,7 @@ import json
 import string
 import emoji
 
-with open("C:\\Users\\Pramod.gunaware.EXT\\Desktop\\under_developement\\query_classification\\slang.json") as file:
+with open("C:\\Users\\Ganesh\\Documents\\Resume Project\\query_classification\\slang.json") as file:
             dict_ = json.load(file)
 
 def slang_convert(text):

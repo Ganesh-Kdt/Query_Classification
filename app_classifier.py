@@ -1,6 +1,6 @@
 from flask import Flask, request
 import sys
-sys.path.append(r"C:\Users\Pramod.gunaware.EXT\Desktop\under_developement\query_classification")
+sys.path.append(r"C:\Users\Ganesh\Documents\Resume Project\query_classification\query_classification")
 from classifier import result
 
 

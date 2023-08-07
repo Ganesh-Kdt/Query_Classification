@@ -1,5 +1,5 @@
 import sys
-sys.path.append(r"C:\Users\Pramod.gunaware.EXT\Desktop\under_developement\query_classification")
+sys.path.append(r"C:\Users\Ganesh\Documents\Resume Project\query_classification\query_classification")
 from helper import preprocessing
 import pickle
 import numpy as np
